@@ -1,4 +1,4 @@
-.destinations-schedule-container{
+.hawaii-schedule-container{
     width: 100%;
     height: 43rem;
     background-image: url(../assets/Images/hawaii.jpg);
@@ -8,7 +8,43 @@
     flex-direction: column;
 
 }
-.destinations-schedule-text{ 
+.hawaii-schedule-text{ 
+    color: white;
+    padding-left: 5rem;
+    padding-top: 5rem;
+    font-size: 3rem;
+    margin: 0;
+}
+
+.greece-schedule-container{
+    width: 100%;
+    height: 43rem;
+    background-image: url(../assets/Images/greece.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.greece-schedule-text{ 
+    color: white;
+    padding-left: 5rem;
+    padding-top: 5rem;
+    font-size: 3rem;
+    margin: 0;
+}
+
+.iceland-schedule-container{
+    width: 100%;
+    height: 43rem;
+    background-image: url(../assets/Images/iceland.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.iceland-schedule-text{ 
     color: white;
     padding-left: 5rem;
     padding-top: 5rem;

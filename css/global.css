@@ -48,6 +48,11 @@ h1{
     padding-right: 4.5rem;
 }
 
+.nav-bar-options a {
+    text-decoration: none;
+    color: #335576;
+}
+
 .nav-bar-page{ 
     border-bottom: .1875rem #db7a4e solid;
     padding-bottom: .3125rem;
