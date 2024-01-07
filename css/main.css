@@ -74,7 +74,9 @@
     justify-content: center;
     gap: 2.5rem;
 }
-
+.recommendations-cards a {
+    text-decoration: none;
+}
 .recommendations-cards-hawaii{
     width: 20rem;
     height:30rem; 
